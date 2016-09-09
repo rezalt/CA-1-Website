@@ -12,7 +12,7 @@
     </session-config>
     
     <security-role>
-        <role-name>admin</role-name>
+        <role-name>visitor</role-name>
     </security-role>
     
     <security-constraint>
