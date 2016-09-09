@@ -20,7 +20,7 @@
             <web-resource-name>
                 thisConstraint
             </web-resource-name>
-            <url-pattern>/Source/*</url-pattern>
+            <url-pattern>/work.html</url-pattern>
         </web-resource-collection>
         <auth-constraint>
             <role-name>visitor</role-name>
